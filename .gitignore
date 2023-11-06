@@ -1,0 +1,5 @@
+Venv
+ProjectTweets.csv
+CleanedProjectTweets.csv
+sentiment_analysis_results.csv
+AnalyzedTweets.csv
