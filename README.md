@@ -1,4 +1,4 @@
-# Sentiment Analysis and Time Series Forecasting Project
+# Sentiment Analysis and Time Series Forecasting 
 ## Overview
 This project is aimed at performing sentiment analysis on Twitter data and forecasting sentiment trends over time. The project uses Apache Spark for data processing, the MongoDB Spark connector for data storage, and the SARIMAX model for time series forecasting.
 
